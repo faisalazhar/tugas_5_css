@@ -1,0 +1,26 @@
+div.div_menu{
+  background-color: black;
+  border: 1;
+  width: auto;
+}
+
+a{
+  color: white;
+  text-align: left;
+}
+
+img.slider{
+  width: 45%
+}
+
+p.satu,p.dua,p.tiga{
+  font-size: 11px;
+  text-align: justify;
+}
+
+div.footer,div.footer-alamat{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
